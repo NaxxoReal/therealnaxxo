@@ -16,29 +16,19 @@
 ---
 
 ## 💬 Discord
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/1188842720173760592?theme=dark&bg=000000" />
-</p>
+[![Discord](https://img.shields.io/badge/Discord-1188842720173760592-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1188842720173760592)
 
 ---
 
 ## 🎮 Roblox
-<p align="center">
-  <a href="https://www.roblox.com/users/8693341003/profile">
-    <img src="https://img.shields.io/badge/Roblox-Profile-black?style=for-the-badge&logo=roblox" />
-  </a>
-</p>
+[![Roblox](https://img.shields.io/badge/Roblox-Profile-black?style=for-the-badge&logo=roblox)](https://www.roblox.com/users/8693341003/profile)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealnaxxo&show_icons=true&theme=dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealnaxxo&show_icons=true&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealnaxxo&layout=compact&theme=dark&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealnaxxo&layout=compact&theme=dark&hide_border=true)
 
 ---
 
