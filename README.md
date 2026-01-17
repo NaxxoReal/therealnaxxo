@@ -19,20 +19,18 @@
 
 ---
 
-## 💬 Discord
+## 🌐 Social
+
+### 💬 Discord (Profile)
 [![Discord](https://img.shields.io/badge/Discord-1188842720173760592-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1188842720173760592)
+
+### 🧩 Discord Server
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/Z3EYPTEAq4)
 
 ---
 
 ## 🎮 Roblox
 [![Roblox](https://img.shields.io/badge/Roblox-Profile-black?style=for-the-badge&logo=roblox)](https://www.roblox.com/users/8693341003/profile)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealnaxxo&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealnaxxo&layout=compact&theme=dark&hide_border=true)
 
 ---
 
