@@ -20,7 +20,7 @@
 ---
 
 ## 💬 Discord
-[![Discord](https://img.shields.io/badge/Discord-1188842720173760592-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1188842720173760592)
+![Discord Card](https://discord.c99.nl/widget/theme-4/1188842720173760592.png)
 
 ---
 
