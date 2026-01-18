@@ -22,7 +22,10 @@
 ## 💬 Discord
 <p align="center">
   <a href="https://discord.com/users/1188842720173760592">
-    <img src="https://lanyard.cnrad.dev/api/1188842720173760592" alt="Discord Presence">
+    <img
+      src="https://lanyard.cnrad.dev/api/1188842720173760592"
+      alt="Discord Presence"
+    />
   </a>
 </p>
 
@@ -31,8 +34,16 @@
 ## 🎮 Roblox
 <p align="center">
   <a href="https://www.roblox.com/users/8693341003/profile">
-    <img src="https://img.shields.io/badge/Roblox-Profile-black?style=for-the-badge&logo=roblox">
+    <img
+      src="https://thumbnails.roproxy.com/v1/users/avatar-headshot?userIds=8693341003&size=420x420&format=Png"
+      alt="Roblox Profile"
+      width="180"
+    />
   </a>
+</p>
+
+<p align="center">
+  <b>therealnaxxo</b>
 </p>
 
 ---
