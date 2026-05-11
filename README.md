@@ -38,5 +38,5 @@
 ---
 
 ## 🌐 Links
-- Website: https://example.com  
-- GitHub: https://github.com/therealnaxxo
+- Website: https://naxxohub.xyz
+- GitHub: https://github.com/NaxxoReal
